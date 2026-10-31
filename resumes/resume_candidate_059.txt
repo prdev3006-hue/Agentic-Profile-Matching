@@ -1,0 +1,7 @@
+Candidate 059
+Cloud Engineer
+
+Experience: 11 years of professional experience delivering cloud engineer projects. Built production systems and collaborated with product and engineering teams.
+Skills: Python, AWS, Docker, Kubernetes.
+Project: Designed and shipped maintainable services and user features, improved reliability, and documented measurable delivery outcomes.
+Education: BSc Computer Science.

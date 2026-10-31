@@ -1,0 +1,7 @@
+Candidate 057
+Web Developer
+
+Experience: 9 years of professional experience delivering web developer projects. Built production systems and collaborated with product and engineering teams.
+Skills: React, TypeScript, JavaScript.
+Project: Designed and shipped maintainable services and user features, improved reliability, and documented measurable delivery outcomes.
+Education: BSc Computer Science.

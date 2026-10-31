@@ -1,0 +1,5 @@
+Elena Garcia
+Backend Engineer
+Experience: 7 years building Java and Python services, PostgreSQL databases, Kubernetes deployments, and AWS infrastructure. Led incident response and API design.
+Skills: Java, Python, SQL, Kubernetes, AWS, Docker.
+Education: MSc Software Systems.

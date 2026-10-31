@@ -1,0 +1,5 @@
+Amina Diallo
+Application Developer
+Experience: 5 years building React and Node.js products with SQL databases. Delivered features for healthcare teams and coordinated with stakeholders.
+Skills: React, Node.js, SQL, communication.
+Education: BSc Information Systems.

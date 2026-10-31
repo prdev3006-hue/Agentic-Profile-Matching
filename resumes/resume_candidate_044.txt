@@ -1,0 +1,7 @@
+Candidate 044
+Platform Engineer
+
+Experience: 2 years of professional experience delivering platform engineer projects. Built production systems and collaborated with product and engineering teams.
+Skills: Python, AWS, Docker, Kubernetes, SQL.
+Project: Designed and shipped maintainable services and user features, improved reliability, and documented measurable delivery outcomes.
+Education: BSc Computer Science.

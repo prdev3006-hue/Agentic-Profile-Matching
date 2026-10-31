@@ -1,0 +1,5 @@
+Noah Williams
+Junior UI Engineer
+Experience: 1 year building React interfaces and JavaScript prototypes. Completed an internship focused on design systems and accessibility.
+Skills: React, JavaScript.
+Education: BSc Computer Science.

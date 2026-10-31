@@ -1,0 +1,5 @@
+Jane Smith
+Frontend Engineer
+Experience: 5 years building React and TypeScript applications, accessible interfaces, and frontend test suites. Led a team migration to modern React and improved page performance by 30%.
+Skills: React, TypeScript, JavaScript, CSS, communication.
+Education: BSc Software Engineering.

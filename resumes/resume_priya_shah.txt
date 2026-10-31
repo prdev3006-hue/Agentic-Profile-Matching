@@ -1,0 +1,5 @@
+Priya Shah
+Software Engineer
+Experience: 6 years developing Python services, React dashboards, and SQL data pipelines. Mentored three engineers and worked with AWS and Docker.
+Skills: Python, React, SQL, AWS, Docker, communication.
+Education: MSc Computer Science.

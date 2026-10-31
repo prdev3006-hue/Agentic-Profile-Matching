@@ -1,0 +1,5 @@
+Sophia Lee
+Platform Engineer
+Experience: 8 years in Python, AWS, Docker, Kubernetes, SQL, and reliable cloud platforms. Designed deployment automation and coached engineering teams.
+Skills: Python, AWS, Docker, Kubernetes, SQL, communication.
+Education: BEng Computer Engineering.

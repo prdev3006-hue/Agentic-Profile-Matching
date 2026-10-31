@@ -1,0 +1,9 @@
+John Doe
+Software Engineer
+
+Experience:
+- Built Python APIs for resume parsing and reporting.
+- Worked with SQL, automation scripts, and cloud deployments.
+
+Education:
+BSc Computer Science

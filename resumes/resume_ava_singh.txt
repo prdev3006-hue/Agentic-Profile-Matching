@@ -1,0 +1,7 @@
+Ava Singh
+Data Engineer
+
+Experience: 2 years of professional experience delivering data engineer projects. Built production systems and collaborated with product and engineering teams.
+Skills: Python, SQL, AWS, communication.
+Project: Designed and shipped maintainable services and user features, improved reliability, and documented measurable delivery outcomes.
+Education: BSc Computer Science.

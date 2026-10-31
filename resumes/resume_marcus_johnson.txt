@@ -1,0 +1,5 @@
+Marcus Johnson
+Frontend Developer
+Experience: 2 years creating React and JavaScript websites with responsive CSS. Built reusable components and collaborated with product designers.
+Skills: React, JavaScript, communication.
+Education: BSc Information Technology.

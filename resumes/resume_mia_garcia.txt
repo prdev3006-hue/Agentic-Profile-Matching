@@ -1,0 +1,7 @@
+Mia Garcia
+UI Engineer
+
+Experience: 4 years of professional experience delivering ui engineer projects. Built production systems and collaborated with product and engineering teams.
+Skills: React, JavaScript, communication.
+Project: Designed and shipped maintainable services and user features, improved reliability, and documented measurable delivery outcomes.
+Education: BSc Computer Science.

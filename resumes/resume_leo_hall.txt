@@ -1,0 +1,7 @@
+Leo Hall
+Application Developer
+
+Experience: 3 years of professional experience delivering application developer projects. Built production systems and collaborated with product and engineering teams.
+Skills: React, Node.js, SQL, communication.
+Project: Designed and shipped maintainable services and user features, improved reliability, and documented measurable delivery outcomes.
+Education: BSc Computer Science.

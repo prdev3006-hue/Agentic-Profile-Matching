@@ -1,0 +1,5 @@
+Alex Chen
+Full Stack Developer
+Experience: 4 years with React, Node.js, JavaScript, PostgreSQL, and AWS. Built customer dashboards and REST APIs; deployed services with Docker.
+Skills: React, Node.js, JavaScript, SQL, AWS, Docker.
+Education: BEng Computer Science.

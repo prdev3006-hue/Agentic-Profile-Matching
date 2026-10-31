@@ -1,0 +1,5 @@
+Omar Hassan
+Web Developer
+Experience: 3 years using React, TypeScript, Node.js, and SQL to deliver e-commerce features. Familiar with CI/CD and automated testing.
+Skills: React, TypeScript, Node.js, SQL.
+Education: BSc Computer Science.
