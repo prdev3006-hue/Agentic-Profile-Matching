@@ -35,12 +35,3 @@ Run one request with:
 
 Run tests with `.\.venv\Scripts\python.exe -m pytest -q`.
 
-## Demo video plan (5–6 minutes)
-
-1. **0:00–0:40** Introduce the graph diagram and the 100-resume synthetic corpus.
-2. **0:40–1:40** Start the CLI, enter a React/3+ years role, and explain must-have/nice-to-have extraction and the top-ten shortlist.
-3. **1:40–2:30** Ask for a top-three comparison and explain a ranking difference with resume evidence.
-4. **2:30–3:20** Refine the role to require TypeScript and 4+ years; show the updated ranking and gaps.
-5. **3:20–4:20** Run the second round and show evidence snippets for the ten finalists.
-6. **4:20–5:10** Run the final round; discuss the hire/no-hire threshold and interview questions.
-7. **5:10–5:40** Save the report and run the tests. Keep API keys and personal information out of the recording.
